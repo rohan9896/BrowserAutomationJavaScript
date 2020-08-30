@@ -6,8 +6,6 @@ Browser automation using puppeteer library in javascript -- instagram liker
 
 ->>>>>> Step 2 - Enter the username and password of your account and the url of website(which is instagram.com)in config.json file
 
-                P.S. i am not gonna show you this xD xD xD
-
 ->>>>>> Step 3 - open terminal and enter the command - node index.js followed by number of post to be liked.
 
 ->>>>>> step 4 - Grab some popcorns and enjoy the show :)))))
